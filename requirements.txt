@@ -1,0 +1,10 @@
+openai
+chromadb
+langchain
+unstructured
+pdfminer.six
+tiktoken
+datasets
+pytesseract
+pdf2image
+faiss-cpu
