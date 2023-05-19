@@ -1,6 +1,6 @@
 openai
 chromadb
-langchain
+langchain==0.0.170
 unstructured
 pdfminer.six
 tiktoken
